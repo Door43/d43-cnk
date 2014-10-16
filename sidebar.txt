@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cnk:home|Door43 (cnk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cnk|d43-cnk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cnk/archive/master.zip|d43-cnk.zip]]
+
+**Recent Changes**
+{{changes>ns = cnk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cnk|Ethnologue data]]
+
